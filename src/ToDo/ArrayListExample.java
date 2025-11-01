@@ -14,6 +14,7 @@ public class ArrayListExample {
 
             while (true) {
                 System.out.println("""
+                        ======================
                         Press 1 to add a task, \
                         
                         2 to view all the tasks \
@@ -24,7 +25,8 @@ public class ArrayListExample {
                         
                         5 to sort the list based on priority \
                         
-                        Any other key to exit""");
+                        Any other key to exit
+                        ======================""");
 
                 String userAction = scanner.nextLine();
 

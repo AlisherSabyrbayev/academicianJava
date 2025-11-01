@@ -14,6 +14,7 @@ public class StudentManagement {
 
         while (true) {
             System.out.println("""
+                    ======================
                     Menu:  \
                     
                     1. Add a student \
@@ -28,7 +29,8 @@ public class StudentManagement {
                     
                     6. Exit
                     
-                    Enter your choice:""");
+                    Enter your choice:
+                    ======================""");
 
             int choice = scanner.nextInt();
             scanner.nextLine();
@@ -113,7 +115,7 @@ public class StudentManagement {
             }
 
             else {
-                System.out.println("Invalid choice. Try again");
+                System.out.println("Invalid choice. Try again.");
             }
         }
 
