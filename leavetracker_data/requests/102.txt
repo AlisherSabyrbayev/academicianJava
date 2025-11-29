@@ -1,0 +1,8 @@
+RequestID:102
+EmployeeID:2
+StartDate:2025-11-02
+EndDate:2025-11-03
+Status:PENDING
+Reason:Flu
+Type:Sick
+MedicalCertificate:true

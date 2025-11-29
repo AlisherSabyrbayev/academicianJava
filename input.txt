@@ -1,0 +1,5 @@
+Line 1 from the input file
+Line 2 from the input file
+Line 3 from the input file
+Line 4 from the input file
+Line 5 from the input file

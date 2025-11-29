@@ -1,0 +1,7 @@
+RequestID:101
+EmployeeID:1
+StartDate:2025-11-01
+EndDate:2025-11-05
+Status:PENDING
+Reason:Vacation
+Type:Regular
