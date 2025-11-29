@@ -1,0 +1,1 @@
+    PARK | Ticket: PL001_1_4 | Type: car | Reg: F1L1 | Color: green | Arrived at: 16:00
